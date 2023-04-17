@@ -28,7 +28,7 @@ export default function Navbar() {
           <ul className="liste">
             {/* 5 li with class items "accueil" "service" "contact" */}
             <li className="items">Accueil</li>
-            <li className="items">Services</li>
+            <li className="items">Ecrire</li>
             <li className="items">Contact</li>
           </ul>
         )}
